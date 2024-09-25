@@ -1,0 +1,15 @@
+TROCAR PNEU DO CARRO
+
+1. Sair do carro
+2. Abrir o porta-malas
+3. Pegar a ferramenta macaco, a chave de roda, o triângulo sinalizador e o estepe
+4. Colocar o triângulo sinalizador no local da troca
+5. Colocar a ferramenta macaco de baixo do carro
+6. Levantar o carro utilizando a ferramenta macaco
+7. Desenroscar a roda furada com a chave de roda
+8. Enroscar o estepe no lugar com a chave de roda
+9. Abaixar o carro com a ferramenta macaco
+10. Tirar a ferramenta macaco de baixo do carro
+11. Guardar a ferramenta macaco, chave de roda, triângulo sinalizador e a roda furada
+12. Fechar o porta-malas
+13. Voltar para dentro do carro
